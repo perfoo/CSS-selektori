@@ -1,6 +1,15 @@
-ul li:first-child {font-weight: bold;}
-[target]::after {content: " *";}
-li:nth-child(even) {font-style: italic;}
+ul li:first-child {
+    font-weight: bold;
+}
+
+[target]::after {
+    content: " *";
+}
+
+li:nth-child(even) {
+    font-style: italic;
+}
+
 ul {
     color: slateblue;
     background-color: thistle;
