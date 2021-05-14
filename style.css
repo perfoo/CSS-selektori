@@ -1,3 +1,18 @@
 ul li:first-child {font-weight: bold;}
-[target]::after {content: "*";}
+[target]::after {content: " *";}
 li:nth-child(even) {font-style: italic;}
+ul {
+    color: slateblue;
+    background-color: thistle;
+    font-size: 1.5rem;
+}
+
+li {
+    padding: 4px;
+    margin: 2px;
+}
+
+div {
+    margin: 40px 160px;
+    padding: 10px;
+}
