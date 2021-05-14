@@ -11,6 +11,7 @@ li:nth-child(even) {
 }
 
 ul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: slateblue;
     background-color: thistle;
     font-size: 1.5rem;
